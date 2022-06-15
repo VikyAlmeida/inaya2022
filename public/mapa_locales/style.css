@@ -1,0 +1,15 @@
+#tabla {
+    width: 100%;
+}
+#tabla tr #address{
+    margin-top:10em;
+    color:#2b303b;
+    background: #ffffff;
+    width: 100%;
+    border-bottom: 1px solid black;
+    padding:1em;
+}
+#tabla tr #address:hover{
+    color:white;
+    background: #2b303b;
+}
